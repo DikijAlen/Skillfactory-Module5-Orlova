@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Alegreya";
+    src: local("Alegreya"),
+    url("Alegreya-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Lato";
+    src: local("Lato"),
+    url("Lato-Regular.woff") format("woff");
+    
+}
+.title {
+    font-family: "Alegreya", serif;
+}
+
+body {
+    font-family: "Lato-Regular", sans-serif;
+}
